@@ -1,3 +1,8 @@
 **/__pycache__
-.venv
+.pytest_cache
+.venv/
 .pylintrc
+.coverage
+.vscode
+*.png
+raw_run.py
